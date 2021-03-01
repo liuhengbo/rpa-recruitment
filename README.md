@@ -58,9 +58,11 @@ You just need to pick one of favorites.
 
 Question 2: Improve a class for better testing
 ----------------------------------------------
+
 答案：（1）、只测试了有没有返回，没有测试返回的正确性
 
-     （2）、没有测试不同时间下返回的正确性
+   （2）、没有测试不同时间下返回的正确性
+
      
 After finishing question 1, please, if the class you have implemented is in production code, prepare your opinions in:
 
